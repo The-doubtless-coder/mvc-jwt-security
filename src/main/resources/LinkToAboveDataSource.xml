@@ -1,0 +1,4 @@
+<ResourceLink
+  name="jdbc/jwtDB"
+  global="jdbc/jwtDB"
+  type="javax.sql.DataSource"/>
